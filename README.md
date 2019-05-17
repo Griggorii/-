@@ -4,7 +4,7 @@ Linux Readme Fix
 
 Открываем от рут папку /media удаляем всё оттуда и перезагружаемся.
 
-Если в консоли квадратики то sudo -rm rf /etc/kbd && update-initramfs -u
+Если в консоли квадратики то sudo -rm rf /etc/#kbd && update-initramfs -u
 
 
 Griggorii создатель OS2.0 | OS3.0 | OS8.0 | OS9.0 |OS11 
